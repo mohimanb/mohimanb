@@ -3,6 +3,8 @@
 # Mohiman B. - Full Stack Developer
 [Website: mohiman.com](https://mohiman.com)
 
+---
+
 ## Overview
 Based in **New York City**, I am a **Dynamic Junior Full Stack Developer** with over **5+ years of experience**. Skilled in **HTML5, CSS3, JavaScript, MERN stack technologies**, I have a strong track record in designing, building, and maintaining responsive websites and applications.
 
@@ -19,10 +21,9 @@ Based in **New York City**, I am a **Dynamic Junior Full Stack Developer** with 
 - **Programming Languages:** HTML5, CSS3, Javascript ES6, SQL
 - **Libraries & Frameworks:** React.js, Express.js, Redux, Node.js
 - **Web Platforms:** Bubble.io, WordPress, Squarespace, Shopify
-- 
+
 ---
 
 ### Contact
 - **Email:** [hello@mohiman.com](mailto:hello@mohiman.com)
 - **Socials:** @_mohiman
-
