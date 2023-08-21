@@ -4,8 +4,6 @@
 [Website: mohiman.com](https://mohiman.com)
 
 ---
-
-## Overview
 Based in **New York City**, I am a **Dynamic Junior Full Stack Developer** with over **5+ years of experience**. Skilled in **HTML5, CSS3, JavaScript, MERN stack technologies**, I have a strong track record in designing, building, and maintaining responsive websites and applications.
 
 ### Experience
