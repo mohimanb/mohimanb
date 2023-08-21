@@ -19,11 +19,10 @@ Based in **New York City**, I am a **Dynamic Junior Full Stack Developer** with 
 - **Programming Languages:** HTML5, CSS3, Javascript ES6, SQL
 - **Libraries & Frameworks:** React.js, Express.js, Redux, Node.js
 - **Web Platforms:** Bubble.io, WordPress, Squarespace, Shopify
+- 
+---
 
 ### Contact
 - **Email:** [hello@mohiman.com](mailto:hello@mohiman.com)
 - **Socials:** @_mohiman
 
----
-
-For a detailed resume, please visit my [personal website](https://mohiman.com).
