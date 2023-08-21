@@ -1,4 +1,4 @@
-![Header Image](URL_TO_HEADER_IMAGE)
+![Header Image](https://raw.githubusercontent.com/mohimanb/mohimanb/main/Adobe_Express_20230814_0126310_1.png)
 
 # Mohiman B. - Full Stack Developer
 [Website: mohiman.com](https://mohiman.com)
